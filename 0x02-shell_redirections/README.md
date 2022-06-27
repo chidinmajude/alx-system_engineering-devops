@@ -1,1 +1,1 @@
-script that prints hello world
+this is a readme file for shell redirection
